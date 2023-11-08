@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adithya S Nair</h1>
 <h3 align="center">A self-motivated and skilled candidate with experience in developing innovative web applications. I possess a strong understanding of the MERN stack, including MongoDB, Express, React, and Node.js, and have worked on several freelance projects utilizing these technologies</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adithya-S-Nair&bg_color=181818&title_color=1FD5F5&text_color=ffffff&border_color=1FD5F5""/>
+<img src="https://github-readme-stats.vercel.app/api?username=Adithya-S-Nair&bg_color=181818&title_color=1FD5F5&text_color=ffffff&border_color=1FD5F5"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-S-Nair&langs_count=10&layout=compact&bg_color=181818&title_color=1FD5F5&text_color=ffffff&border_color=1FD5F5" />
 
 <h3 align="left">Languages and Tools:</h3>
